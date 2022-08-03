@@ -6,6 +6,6 @@ final class ExiTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(Exi().text, "Hello, World!")
+       // XCTAssertEqual(Exi().text, "Hello, World!")
     }
 }
